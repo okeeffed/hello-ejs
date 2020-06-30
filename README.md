@@ -1,5 +1,7 @@
 # Hello EJS
 
+This is the repo for the following [blog post](https://blog.dennisokeeffe.com/blog/2020-06-30-javascript-code-generation/).
+
 ## Getting Started
 
 ```s
